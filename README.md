@@ -26,3 +26,4 @@ I'm currently seeking my first professional role in cybersecurity — ideally in
 
 - **Website:** [jonas-flueckiger.ch](https://jonas-flueckiger.ch)
 - **LinkedIn:** [linkedin.com/in/jonas-flückiger](https://linkedin.com/in/jonas-flückiger)
+- **Email:** [contact@jonas-flueckiger.ch](mailto:contact@jonas-flueckiger.ch)
